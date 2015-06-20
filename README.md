@@ -1,4 +1,4 @@
 # effay.github.io
 Our 'official' page
 
-Proposed plan is to hold the wiki on here, as the Tuxbell admin seems to be inactive.
+Nothing yet proposed with this page, as we plan to continue using tuxbell to hold the wiki content.
